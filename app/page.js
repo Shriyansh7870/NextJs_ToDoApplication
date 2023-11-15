@@ -1,4 +1,5 @@
-"use client";
+import "isomorphic-fetch";
+
 import React, { useState } from "react";
 
 const Page = () => {
